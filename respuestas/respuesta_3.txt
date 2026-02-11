@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Columnar (NoSQL) | La aplicación almacena grandes volúmenes de logs que se consultan principalmente en orden temporal y mediante agregaciones. Una base de datos columnar optimiza este tipo de consultas analíticas y permite escalar eficientemente ante el crecimiento continuo de datos.
