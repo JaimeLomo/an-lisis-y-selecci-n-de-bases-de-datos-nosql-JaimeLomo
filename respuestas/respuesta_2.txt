@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Clave–Valor (NoSQL) | El servicio necesita acceso inmediato a sesiones identificadas por una clave única, sin relaciones complejas entre datos. Este modelo permite lecturas y escrituras muy rápidas, además de gestionar expiración automática de sesiones temporales.
