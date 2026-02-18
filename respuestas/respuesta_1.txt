@@ -1,1 +1,1 @@
-Grafos (NoSQL) | El sistema se basa en analizar relaciones entre usuarios, productos y patrones de compra. Una base de datos de grafos permite modelar y recorrer conexiones directas e indirectas de forma eficiente, lo que facilita generar recomendaciones basadas en afinidades y comportamiento compartido.
+GRAFOS | Sistema basado en relaciones complejas entre usuarios y productos, donde es necesario analizar conexiones directas e indirectas para generar recomendaciones eficientes.

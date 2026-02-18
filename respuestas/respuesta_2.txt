@@ -1,1 +1,1 @@
-Clave–Valor (NoSQL) | El servicio necesita acceso inmediato a sesiones identificadas por una clave única, sin relaciones complejas entre datos. Este modelo permite lecturas y escrituras muy rápidas, además de gestionar expiración automática de sesiones temporales.
+CLAVE–VALOR | Acceso ultrarrápido mediante clave única para gestionar sesiones temporales sin relaciones entre datos y con posibilidad de expiración automática.
